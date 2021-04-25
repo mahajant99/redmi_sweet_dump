@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200826.002 V12.0.12.0.RKFMIXM release-keys
+- manufacturer: xiaomi
+- platform: sm6150
+- codename: sweet
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200826.002
+- incremental: V12.0.12.0.RKFMIXM
+- tags: release-keys
+- fingerprint: Redmi/sweet_global/sweet:11/RKQ1.200826.002/V12.0.12.0.RKFMIXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: qssi-user-11-RKQ1.200826.002-V12.0.12.0.RKFMIXM-release-keys
+- repo: redmi_sweet_dump
